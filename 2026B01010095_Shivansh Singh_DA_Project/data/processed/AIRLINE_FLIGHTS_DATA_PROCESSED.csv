@@ -1,0 +1,246 @@
+Flight_ID,Flight_Date,Airline_Type,Origin_City,Destination_City,Flight_Distance_Km,Cabin_Class,Ticket_Price_INR,Departure_Delay_Min,Weather_Impact_Score,Arrival_Delay_Min,Delay_Difference_Min,Delay_Band,Price_Per_Km,Flight_Month,Route
+F1001,2026-01-01,Low_Cost,Mumbai,Delhi,1148,Premium_Economy,7276,5,1.3,21,16,Mod,6.34,January,Mumbai → Delhi
+F1002,2026-01-02,Regional,Bengaluru,Delhi,1740,Economy,5194,35,5.2,47,12,Major,2.99,January,Bengaluru → Delhi
+F1003,2026-01-03,Low_Cost,Bengaluru,Delhi,1740,Economy,4884,7,9.5,24,17,Mod,2.81,January,Bengaluru → Delhi
+F1004,2026-01-04,Regional,Delhi,Hyderabad,1253,Premium_Economy,7552,-1,9.1,36,37,Mod,6.03,January,Delhi → Hyderabad
+F1005,2026-01-05,Full_Service,Kolkata,Mumbai,1652,Economy,5641,28,6.8,44,16,Mod,3.41,January,Kolkata → Mumbai
+F1006,2026-01-07,Low_Cost,Hyderabad,Mumbai,1253,Economy,5171,-6,9.4,14,20,Minor,4.13,January,Hyderabad → Mumbai
+F1007,2026-01-08,Full_Service,Delhi,Mumbai,1148,Economy,6367,23,5.8,2,-21,Minor,5.55,January,Delhi → Mumbai
+F1008,2026-01-09,Regional,Hyderabad,Delhi,1253,Business,13042,62,0.0,81,19,Major,10.41,January,Hyderabad → Delhi
+F1009,2026-01-10,Low_Cost,Bengaluru,Delhi,1740,Business,13453,8,9.1,9,1,Minor,7.73,January,Bengaluru → Delhi
+F1010,2026-01-12,Low_Cost,Bengaluru,Hyderabad,503,Economy,4625,7,2.1,-12,-19,On Time,9.19,January,Bengaluru → Hyderabad
+F1011,2026-01-13,Regional,Hyderabad,Mumbai,617,Economy,5347,19,0.1,2,-17,Minor,8.67,January,Hyderabad → Mumbai
+F1012,2026-01-14,Regional,Bengaluru,Hyderabad,503,Economy,4270,-1,4.2,22,23,Mod,8.49,January,Bengaluru → Hyderabad
+F1013,2026-01-15,Full_Service,Bengaluru,Mumbai,842,Premium_Economy,9387,18,8.6,9,-9,Minor,11.15,January,Bengaluru → Mumbai
+F1014,2026-01-17,Regional,Bengaluru,Kolkata,1560,Business,13571,46,3.4,68,22,Major,8.7,January,Bengaluru → Kolkata
+F1015,2026-01-18,Low_Cost,Hyderabad,Delhi,1253,Economy,4310,38,3.2,39,1,Mod,3.44,January,Hyderabad → Delhi
+F1016,2026-01-19,Low_Cost,Mumbai,Kolkata,1652,Economy,5176,-4,3.2,-1,3,On Time,3.13,January,Mumbai → Kolkata
+F1017,2026-01-20,Low_Cost,Mumbai,Bengaluru,842,Economy,4665,15,4.5,33,18,Mod,5.54,January,Mumbai → Bengaluru
+F1018,2026-01-22,Low_Cost,Delhi,Hyderabad,1253,Economy,5155,45,7.5,57,12,Major,4.11,January,Delhi → Hyderabad
+F1019,2026-01-23,Full_Service,Bengaluru,Hyderabad,503,Economy,5749,10,6.2,28,18,Mod,11.43,January,Bengaluru → Hyderabad
+F1020,2026-01-24,Regional,Mumbai,Bengaluru,842,Economy,4525,21,2.1,57,36,Major,5.37,January,Mumbai → Bengaluru
+F1021,2026-01-25,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,7975,-6,3.4,-3,3,On Time,6.95,January,Delhi → Mumbai
+F1022,2026-01-27,Low_Cost,Kolkata,Bengaluru,1560,Economy,4544,11,4.9,26,15,Mod,2.91,January,Kolkata → Bengaluru
+F1023,2026-01-28,Low_Cost,Hyderabad,Kolkata,1193,Economy,4880,9,7.3,29,20,Mod,4.09,January,Hyderabad → Kolkata
+F1024,2026-01-29,Regional,Hyderabad,Bengaluru,503,Economy,4617,0,9.1,38,38,Mod,9.18,January,Hyderabad → Bengaluru
+F1025,2026-01-30,Full_Service,Mumbai,Hyderabad,617,Economy,5962,-6,6.0,-8,-2,On Time,9.66,January,Mumbai → Hyderabad
+F1026,2026-02-01,Regional,Kolkata,Bengaluru,1560,Premium_Economy,8059,4,3.6,-9,-13,On Time,5.17,February,Kolkata → Bengaluru
+F1027,2026-02-02,Low_Cost,Kolkata,Bengaluru,1560,Economy,5017,-6,9.8,-14,-8,On Time,3.22,February,Kolkata → Bengaluru
+F1028,2026-02-03,Low_Cost,Bengaluru,Kolkata,1560,Premium_Economy,7984,6,1.6,36,30,Mod,5.12,February,Bengaluru → Kolkata
+F1029,2026-02-04,Low_Cost,Bengaluru,Hyderabad,503,Economy,4084,0,8.8,-10,-10,On Time,8.12,February,Bengaluru → Hyderabad
+F1030,2026-02-06,Regional,Mumbai,Hyderabad,1253,Economy,4082,12,3.8,29,17,Mod,3.26,February,Mumbai → Hyderabad
+F1031,2026-02-07,Full_Service,Bengaluru,Mumbai,842,Premium_Economy,8325,-4,9.5,18,22,Mod,9.89,February,Bengaluru → Mumbai
+F1032,2026-02-08,Low_Cost,Mumbai,Bengaluru,842,Economy,4403,35,1.7,36,1,Mod,5.23,February,Mumbai → Bengaluru
+F1033,2026-02-09,Low_Cost,Hyderabad,Delhi,1253,Business,13602,18,3.8,9,-9,Minor,10.86,February,Hyderabad → Delhi
+F1034,2026-02-10,Low_Cost,Hyderabad,Kolkata,1193,Economy,4708,2,0.7,42,40,Mod,3.95,February,Hyderabad → Kolkata
+F1035,2026-02-12,Low_Cost,Delhi,Bengaluru,1740,Economy,5104,11,9.0,31,20,Mod,2.93,February,Delhi → Bengaluru
+F1036,2026-02-13,Low_Cost,Mumbai,Hyderabad,617,Economy,3809,10,1.3,-14,-24,On Time,6.17,February,Mumbai → Hyderabad
+F1037,2026-02-14,Regional,Kolkata,Mumbai,1652,Economy,5441,5,5.8,22,17,Mod,3.29,February,Kolkata → Mumbai
+F1038,2026-02-15,Low_Cost,Delhi,Kolkata,1305,Business,12721,8,2.2,20,12,Mod,9.75,February,Delhi → Kolkata
+F1039,2026-02-17,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,7449,10,9.5,26,16,Mod,6.49,February,Delhi → Mumbai
+F1040,2026-02-18,Low_Cost,Mumbai,Bengaluru,842,Business,12809,15,6.7,48,33,Major,15.21,February,Mumbai → Bengaluru
+F1041,2026-02-19,Regional,Hyderabad,Mumbai,617,Economy,4336,13,4.6,40,27,Mod,7.03,February,Hyderabad → Mumbai
+F1042,2026-02-20,Regional,Bengaluru,Hyderabad,503,Premium_Economy,7165,20,0.3,27,7,Mod,14.24,February,Bengaluru → Hyderabad
+F1043,2026-02-22,Low_Cost,Kolkata,Mumbai,1652,Premium_Economy,9141,26,1.1,-4,-30,On Time,5.53,February,Kolkata → Mumbai
+F1044,2026-02-23,Full_Service,Hyderabad,Kolkata,1193,Premium_Economy,9352,8,6.4,44,36,Mod,7.84,February,Hyderabad → Kolkata
+F1045,2026-02-24,Regional,Mumbai,Bengaluru,842,Economy,4729,22,4.6,47,25,Major,5.62,February,Mumbai → Bengaluru
+F1046,2026-02-25,Full_Service,Bengaluru,Kolkata,1560,Economy,5503,-6,7.4,37,43,Mod,3.53,February,Bengaluru → Kolkata
+F1047,2026-02-27,Full_Service,Mumbai,Delhi,1148,Economy,5934,32,6.4,45,13,Mod,5.17,February,Mumbai → Delhi
+F1048,2026-02-28,Full_Service,Delhi,Bengaluru,1740,Economy,7075,15,0.4,10,-5,Minor,4.07,February,Delhi → Bengaluru
+F1049,2026-03-01,Low_Cost,Bengaluru,Delhi,1740,Business,13365,18,0.3,28,10,Mod,7.68,March,Bengaluru → Delhi
+F1050,2026-03-02,Low_Cost,Kolkata,Delhi,1305,Premium_Economy,7291,10,2.8,35,25,Mod,5.59,March,Kolkata → Delhi
+F1051,2026-03-04,Low_Cost,Hyderabad,Bengaluru,503,Economy,4642,7,5.7,29,22,Mod,9.23,March,Hyderabad → Bengaluru
+F1052,2026-03-05,Low_Cost,Delhi,Bengaluru,1740,Premium_Economy,7699,1,1.8,12,11,Minor,4.42,March,Delhi → Bengaluru
+F1053,2026-03-06,Low_Cost,Kolkata,Delhi,1305,Economy,5350,-6,4.7,-4,2,On Time,4.1,March,Kolkata → Delhi
+F1054,2026-03-07,Low_Cost,Bengaluru,Mumbai,842,Economy,4632,45,7.3,25,-20,Mod,5.5,March,Bengaluru → Mumbai
+F1055,2026-03-09,Low_Cost,Mumbai,Delhi,1148,Economy,4475,4,4.1,35,31,Mod,3.9,March,Mumbai → Delhi
+F1056,2026-03-10,Low_Cost,Delhi,Mumbai,1148,Economy,5745,60,1.0,81,21,Major,5.0,March,Delhi → Mumbai
+F1057,2026-03-11,Regional,Delhi,Mumbai,1148,Economy,4859,-6,4.6,-1,5,On Time,4.23,March,Delhi → Mumbai
+F1058,2026-03-12,Full_Service,Delhi,Hyderabad,1253,Economy,6097,26,6.6,28,2,Mod,4.87,March,Delhi → Hyderabad
+F1059,2026-03-14,Full_Service,Delhi,Hyderabad,1253,Economy,5669,20,9.7,8,-12,Minor,4.52,March,Delhi → Hyderabad
+F1060,2026-03-15,Low_Cost,Delhi,Bengaluru,1740,Economy,5136,30,9.2,46,16,Major,2.95,March,Delhi → Bengaluru
+F1061,2026-03-16,Low_Cost,Bengaluru,Delhi,1740,Economy,5102,10,7.8,17,7,Mod,2.93,March,Bengaluru → Delhi
+F1062,2026-03-17,Low_Cost,Hyderabad,Kolkata,1193,Economy,4496,36,7.7,70,34,Major,3.77,March,Hyderabad → Kolkata
+F1063,2026-03-18,Full_Service,Delhi,Mumbai,1148,Premium_Economy,8341,-6,6.5,37,43,Mod,7.27,March,Delhi → Mumbai
+F1064,2026-03-20,Full_Service,Mumbai,Kolkata,1652,Economy,6282,19,3.1,18,-1,Mod,3.8,March,Mumbai → Kolkata
+F1065,2026-03-21,Full_Service,Mumbai,Delhi,1148,Economy,6226,0,2.5,30,30,Mod,5.42,March,Mumbai → Delhi
+F1066,2026-03-22,Full_Service,Delhi,Bengaluru,1740,Business,15446,23,6.1,-14,-37,On Time,8.88,March,Delhi → Bengaluru
+F1067,2026-03-23,Low_Cost,Delhi,Bengaluru,1740,Economy,5081,24,3.7,9,-15,Minor,2.92,March,Delhi → Bengaluru
+F1068,2026-03-25,Low_Cost,Mumbai,Delhi,1148,Business,13301,-6,4.8,0,6,On Time,11.59,March,Mumbai → Delhi
+F1069,2026-03-26,Full_Service,Hyderabad,Delhi,1253,Business,15130,24,6.2,22,-2,Mod,12.08,March,Hyderabad → Delhi
+F1070,2026-03-27,Low_Cost,Mumbai,Delhi,1148,Economy,3808,29,0.8,57,28,Major,3.32,March,Mumbai → Delhi
+F1071,2026-03-28,Full_Service,Bengaluru,Kolkata,1560,Economy,5929,16,2.5,7,-9,Minor,3.8,March,Bengaluru → Kolkata
+F1072,2026-03-30,Low_Cost,Mumbai,Delhi,1148,Economy,4356,46,1.2,43,-3,Mod,3.79,March,Mumbai → Delhi
+F1073,2026-03-31,Full_Service,Bengaluru,Kolkata,1560,Economy,6936,40,2.1,47,7,Major,4.45,March,Bengaluru → Kolkata
+F1074,2026-04-01,Full_Service,Bengaluru,Mumbai,842,Economy,5467,27,9.1,25,-2,Mod,6.49,April,Bengaluru → Mumbai
+F1075,2026-04-02,Full_Service,Mumbai,Hyderabad,1253,Economy,5052,10,6.9,-14,-24,On Time,4.03,April,Mumbai → Hyderabad
+F1076,2026-04-04,Full_Service,Kolkata,Delhi,1305,Economy,6645,2,3.9,20,18,Mod,5.09,April,Kolkata → Delhi
+F1077,2026-04-05,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,7323,16,8.8,-9,-25,On Time,6.38,April,Delhi → Mumbai
+F1078,2026-04-06,Full_Service,Hyderabad,Bengaluru,503,Economy,5598,16,2.1,7,-9,Minor,11.13,April,Hyderabad → Bengaluru
+F1079,2026-04-07,Full_Service,Kolkata,Bengaluru,1560,Premium_Economy,8869,11,6.8,67,56,Major,5.69,April,Kolkata → Bengaluru
+F1080,2026-04-09,Full_Service,Kolkata,Mumbai,1652,Premium_Economy,8824,19,7.8,14,-5,Minor,5.34,April,Kolkata → Mumbai
+F1081,2026-04-10,Low_Cost,Delhi,Kolkata,1305,Business,13283,3,3.7,23,20,Mod,10.18,April,Delhi → Kolkata
+F1082,2026-04-11,Low_Cost,Delhi,Kolkata,1305,Economy,5249,12,3.4,9,-3,Minor,4.02,April,Delhi → Kolkata
+F1083,2026-04-12,Full_Service,Hyderabad,Mumbai,617,Economy,6279,7,3.6,-1,-8,On Time,10.18,April,Hyderabad → Mumbai
+F1084,2026-04-14,Low_Cost,Delhi,Hyderabad,1253,Premium_Economy,6898,6,4.0,26,20,Mod,5.51,April,Delhi → Hyderabad
+F1085,2026-04-15,Regional,Hyderabad,Kolkata,1193,Economy,4873,10,1.3,39,29,Mod,4.08,April,Hyderabad → Kolkata
+F1086,2026-04-16,Low_Cost,Mumbai,Hyderabad,617,Economy,4941,4,4.6,17,13,Mod,8.01,April,Mumbai → Hyderabad
+F1087,2026-04-17,Low_Cost,Mumbai,Hyderabad,617,Business,12559,16,9.4,31,15,Mod,20.35,April,Mumbai → Hyderabad
+F1088,2026-04-19,Full_Service,Hyderabad,Bengaluru,503,Economy,5877,12,6.2,-14,-26,On Time,11.68,April,Hyderabad → Bengaluru
+F1089,2026-04-20,Full_Service,Kolkata,Mumbai,1652,Economy,6259,21,7.0,26,5,Mod,3.79,April,Kolkata → Mumbai
+F1090,2026-04-21,Regional,Mumbai,Kolkata,1652,Business,13072,51,3.7,12,-39,Minor,7.91,April,Mumbai → Kolkata
+F1091,2026-04-22,Low_Cost,Delhi,Bengaluru,1740,Premium_Economy,7165,35,10.0,64,29,Major,4.12,April,Delhi → Bengaluru
+F1092,2026-04-24,Low_Cost,Kolkata,Delhi,1305,Premium_Economy,8430,16,7.8,31,15,Mod,6.46,April,Kolkata → Delhi
+F1093,2026-04-25,Full_Service,Bengaluru,Mumbai,842,Premium_Economy,8567,16,5.5,32,16,Mod,10.17,April,Bengaluru → Mumbai
+F1094,2026-04-26,Low_Cost,Kolkata,Delhi,1305,Premium_Economy,8113,21,4.0,-11,-32,On Time,6.22,April,Kolkata → Delhi
+F1095,2026-04-27,Full_Service,Kolkata,Mumbai,1652,Business,14005,14,4.9,6,-8,Minor,8.48,April,Kolkata → Mumbai
+F1096,2026-04-28,Full_Service,Hyderabad,Bengaluru,503,Economy,5953,3,4.9,56,53,Major,11.83,April,Hyderabad → Bengaluru
+F1097,2026-04-30,Regional,Hyderabad,Kolkata,1193,Economy,4604,16,9.6,46,30,Major,3.86,April,Hyderabad → Kolkata
+F1098,2026-05-01,Low_Cost,Hyderabad,Mumbai,617,Economy,3832,0,9.7,11,11,Minor,6.21,May,Hyderabad → Mumbai
+F1099,2026-05-02,Regional,Mumbai,Bengaluru,842,Economy,4841,2,8.2,9,7,Minor,5.75,May,Mumbai → Bengaluru
+F1100,2026-05-03,Low_Cost,Delhi,Kolkata,1305,Premium_Economy,7373,-6,8.9,27,33,Mod,5.65,May,Delhi → Kolkata
+F1101,2026-05-05,Low_Cost,Bengaluru,Hyderabad,503,Business,12303,-3,9.4,53,56,Major,24.46,May,Bengaluru → Hyderabad
+F1102,2026-05-06,Low_Cost,Kolkata,Bengaluru,1560,Premium_Economy,7696,28,8.9,30,2,Mod,4.93,May,Kolkata → Bengaluru
+F1103,2026-05-07,Full_Service,Delhi,Hyderabad,1253,Economy,6022,27,0.3,33,6,Mod,4.81,May,Delhi → Hyderabad
+F1104,2026-05-08,Low_Cost,Mumbai,Kolkata,1652,Economy,4948,4,5.7,31,27,Mod,3.0,May,Mumbai → Kolkata
+F1105,2026-05-10,Low_Cost,Bengaluru,Delhi,1740,Economy,5365,6,5.9,23,17,Mod,3.08,May,Bengaluru → Delhi
+F1106,2026-05-11,Full_Service,Delhi,Hyderabad,1253,Business,14459,31,0.9,34,3,Mod,11.54,May,Delhi → Hyderabad
+F1107,2026-05-12,Full_Service,Bengaluru,Delhi,1740,Economy,6035,-6,6.5,-14,-8,On Time,3.47,May,Bengaluru → Delhi
+F1108,2026-05-13,Low_Cost,Kolkata,Bengaluru,1560,Economy,5615,43,5.3,46,3,Major,3.6,May,Kolkata → Bengaluru
+F1109,2026-05-15,Full_Service,Hyderabad,Mumbai,617,Business,14825,20,7.0,5,-15,Minor,24.03,May,Hyderabad → Mumbai
+F1110,2026-05-16,Low_Cost,Kolkata,Bengaluru,1560,Economy,4662,30,4.9,61,31,Major,2.99,May,Kolkata → Bengaluru
+F1111,2026-05-17,Full_Service,Hyderabad,Bengaluru,503,Business,13059,27,6.5,70,43,Major,25.96,May,Hyderabad → Bengaluru
+F1112,2026-05-18,Low_Cost,Hyderabad,Mumbai,617,Economy,4607,16,7.5,17,1,Mod,7.47,May,Hyderabad → Mumbai
+F1113,2026-05-20,Regional,Hyderabad,Kolkata,1193,Business,12817,21,3.2,38,17,Mod,10.74,May,Hyderabad → Kolkata
+F1114,2026-05-21,Low_Cost,Delhi,Mumbai,1148,Economy,4801,7,7.2,20,13,Mod,4.18,May,Delhi → Mumbai
+F1115,2026-05-22,Regional,Delhi,Kolkata,1305,Economy,4549,12,0.5,-9,-21,On Time,3.49,May,Delhi → Kolkata
+F1116,2026-05-23,Low_Cost,Delhi,Kolkata,1305,Premium_Economy,8229,-2,5.0,19,21,Mod,6.31,May,Delhi → Kolkata
+F1117,2026-05-25,Low_Cost,Mumbai,Bengaluru,842,Economy,4276,24,7.3,53,29,Major,5.08,May,Mumbai → Bengaluru
+F1118,2026-05-26,Full_Service,Mumbai,Kolkata,1652,Economy,6698,27,7.2,28,1,Mod,4.05,May,Mumbai → Kolkata
+F1119,2026-05-27,Low_Cost,Mumbai,Kolkata,1652,Premium_Economy,8117,19,0.5,31,12,Mod,4.91,May,Mumbai → Kolkata
+F1120,2026-05-28,Regional,Delhi,Hyderabad,1253,Economy,5383,32,3.3,34,2,Mod,4.3,May,Delhi → Hyderabad
+F1121,2026-05-30,Low_Cost,Delhi,Kolkata,1305,Economy,4795,34,0.7,42,8,Mod,3.67,May,Delhi → Kolkata
+F1122,2026-05-31,Low_Cost,Bengaluru,Delhi,1740,Economy,4871,17,9.3,40,23,Mod,2.8,May,Bengaluru → Delhi
+F1123,2026-06-01,Low_Cost,Mumbai,Kolkata,1652,Economy,4893,22,7.4,41,19,Mod,2.96,June,Mumbai → Kolkata
+F1124,2026-06-02,Full_Service,Mumbai,Hyderabad,617,Economy,6323,39,7.3,44,5,Mod,10.25,June,Mumbai → Hyderabad
+F1125,2026-06-03,Low_Cost,Delhi,Mumbai,1148,Economy,5327,28,9.8,62,34,Major,4.64,June,Delhi → Mumbai
+F1126,2026-06-05,Low_Cost,Kolkata,Mumbai,1652,Economy,5804,30,9.2,70,40,Major,3.51,June,Kolkata → Mumbai
+F1127,2026-06-06,Full_Service,Mumbai,Hyderabad,617,Economy,5690,34,8.4,59,25,Major,9.22,June,Mumbai → Hyderabad
+F1128,2026-06-07,Regional,Kolkata,Delhi,1305,Premium_Economy,7621,4,3.5,27,23,Mod,5.84,June,Kolkata → Delhi
+F1129,2026-06-08,Regional,Bengaluru,Delhi,1740,Premium_Economy,8057,30,4.9,21,-9,Mod,4.63,June,Bengaluru → Delhi
+F1130,2026-06-10,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,7617,53,0.5,-9,-62,On Time,6.64,June,Delhi → Mumbai
+F1131,2026-06-11,Regional,Delhi,Bengaluru,1740,Premium_Economy,8475,48,7.6,25,-23,Mod,4.87,June,Delhi → Bengaluru
+F1132,2026-06-12,Low_Cost,Delhi,Hyderabad,1253,Economy,5377,-6,5.2,27,33,Mod,4.29,June,Delhi → Hyderabad
+F1133,2026-06-13,Full_Service,Bengaluru,Hyderabad,1253,Business,14460,15,5.0,9,-6,Minor,11.54,June,Bengaluru → Hyderabad
+F1134,2026-06-15,Full_Service,Hyderabad,Kolkata,1193,Economy,6135,18,10.0,17,-1,Mod,5.14,June,Hyderabad → Kolkata
+F1135,2026-06-16,Low_Cost,Bengaluru,Delhi,1740,Economy,5018,30,5.3,35,5,Mod,2.88,June,Bengaluru → Delhi
+F1136,2026-06-17,Full_Service,Kolkata,Hyderabad,1193,Business,14449,25,9.7,38,13,Mod,12.11,June,Kolkata → Hyderabad
+F1137,2026-06-18,Full_Service,Mumbai,Hyderabad,617,Economy,6017,0,1.0,-7,-7,On Time,9.75,June,Mumbai → Hyderabad
+F1138,2026-06-20,Regional,Bengaluru,Kolkata,1560,Economy,5685,25,8.5,36,11,Mod,3.64,June,Bengaluru → Kolkata
+F1139,2026-06-21,Full_Service,Kolkata,Delhi,1305,Economy,6597,29,0.9,14,-15,Minor,5.06,June,Kolkata → Delhi
+F1140,2026-06-22,Low_Cost,Mumbai,Delhi,1148,Premium_Economy,7179,2,8.7,-6,-8,On Time,6.25,June,Mumbai → Delhi
+F1141,2026-06-23,Regional,Mumbai,Hyderabad,617,Economy,4110,15,5.8,13,-2,Minor,6.66,June,Mumbai → Hyderabad
+F1142,2026-06-25,Full_Service,Hyderabad,Kolkata,1193,Economy,6079,23,0.9,14,-9,Minor,5.1,June,Hyderabad → Kolkata
+F1143,2026-06-26,Full_Service,Bengaluru,Kolkata,1560,Premium_Economy,9768,1,1.6,-6,-7,On Time,6.26,June,Bengaluru → Kolkata
+F1144,2026-06-27,Full_Service,Kolkata,Mumbai,1652,Business,15089,9,4.9,70,61,Major,9.13,June,Kolkata → Mumbai
+F1145,2026-06-28,Low_Cost,Delhi,Hyderabad,1253,Premium_Economy,8049,1,7.5,16,15,Mod,6.42,June,Delhi → Hyderabad
+F1146,2026-06-30,Regional,Delhi,Mumbai,1148,Premium_Economy,7344,-2,4.4,6,8,Minor,6.4,June,Delhi → Mumbai
+F1147,2026-07-01,Full_Service,Bengaluru,Kolkata,1560,Business,14170,32,8.7,57,25,Major,9.08,July,Bengaluru → Kolkata
+F1148,2026-07-02,Low_Cost,Bengaluru,Hyderabad,503,Economy,4291,50,7.7,33,-17,Mod,8.53,July,Bengaluru → Hyderabad
+F1149,2026-07-03,Full_Service,Mumbai,Kolkata,1652,Economy,6712,9,3.2,6,-3,Minor,4.06,July,Mumbai → Kolkata
+F1150,2026-07-05,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,8094,-2,9.8,47,49,Major,7.05,July,Delhi → Mumbai
+F1151,2026-07-06,Low_Cost,Hyderabad,Delhi,1253,Economy,5058,9,5.6,52,43,Major,4.04,July,Hyderabad → Delhi
+F1152,2026-07-07,Full_Service,Bengaluru,Mumbai,842,Business,14640,15,5.3,8,-7,Minor,17.39,July,Bengaluru → Mumbai
+F1153,2026-07-08,Low_Cost,Bengaluru,Mumbai,842,Premium_Economy,7226,15,6.6,32,17,Mod,8.58,July,Bengaluru → Mumbai
+F1154,2026-07-09,Low_Cost,Delhi,Kolkata,1305,Premium_Economy,7542,-5,6.1,-7,-2,On Time,5.78,July,Delhi → Kolkata
+F1155,2026-07-11,Full_Service,Hyderabad,Bengaluru,503,Economy,5830,27,3.4,31,4,Mod,11.59,July,Hyderabad → Bengaluru
+F1156,2026-07-12,Regional,Hyderabad,Mumbai,617,Premium_Economy,7037,17,3.5,26,9,Mod,11.41,July,Hyderabad → Mumbai
+F1157,2026-07-13,Low_Cost,Delhi,Kolkata,1305,Economy,5013,-6,2.4,4,10,Minor,3.84,July,Delhi → Kolkata
+F1158,2026-07-14,Low_Cost,Hyderabad,Bengaluru,503,Business,12813,23,3.3,18,-5,Mod,25.47,July,Hyderabad → Bengaluru
+F1159,2026-07-16,Low_Cost,Delhi,Bengaluru,1740,Economy,4680,28,8.0,67,39,Major,2.69,July,Delhi → Bengaluru
+F1160,2026-07-17,Full_Service,Delhi,Mumbai,1148,Economy,6783,19,0.3,19,0,Mod,5.91,July,Delhi → Mumbai
+F1161,2026-07-18,Low_Cost,Delhi,Mumbai,1148,Economy,4404,37,6.0,70,33,Major,3.84,July,Delhi → Mumbai
+F1162,2026-07-19,Full_Service,Kolkata,Bengaluru,1560,Economy,6825,-4,4.5,-2,2,On Time,4.38,July,Kolkata → Bengaluru
+F1163,2026-07-21,Full_Service,Kolkata,Mumbai,1652,Premium_Economy,9021,-6,7.7,-3,3,On Time,5.46,July,Kolkata → Mumbai
+F1164,2026-07-22,Full_Service,Bengaluru,Hyderabad,503,Premium_Economy,8635,11,2.3,2,-9,Minor,17.17,July,Bengaluru → Hyderabad
+F1165,2026-07-23,Low_Cost,Kolkata,Delhi,1305,Economy,4831,1,7.1,30,29,Mod,3.7,July,Kolkata → Delhi
+F1166,2026-07-24,Full_Service,Mumbai,Bengaluru,842,Economy,5221,-6,8.5,18,24,Mod,6.2,July,Mumbai → Bengaluru
+F1167,2026-07-26,Regional,Hyderabad,Bengaluru,503,Economy,4466,-6,9.7,70,76,Major,8.88,July,Hyderabad → Bengaluru
+F1168,2026-07-27,Full_Service,Hyderabad,Delhi,1253,Economy,5755,9,6.3,20,11,Mod,4.59,July,Hyderabad → Delhi
+F1169,2026-07-28,Regional,Delhi,Kolkata,1305,Economy,3749,11,6.9,25,14,Mod,2.87,July,Delhi → Kolkata
+F1170,2026-07-29,Full_Service,Mumbai,Hyderabad,617,Economy,6357,10,0.1,-3,-13,On Time,10.3,July,Mumbai → Hyderabad
+F1171,2026-07-31,Full_Service,Bengaluru,Kolkata,1560,Economy,6130,12,1.8,17,5,Mod,3.93,July,Bengaluru → Kolkata
+F1172,2026-08-01,Low_Cost,Bengaluru,Hyderabad,503,Economy,3605,4,5.1,37,33,Mod,7.17,August,Bengaluru → Hyderabad
+F1173,2026-08-02,Regional,Kolkata,Delhi,1305,Premium_Economy,8726,13,9.3,48,35,Major,6.69,August,Kolkata → Delhi
+F1174,2026-08-03,Low_Cost,Mumbai,Kolkata,1652,Economy,5481,12,8.0,-14,-26,On Time,3.32,August,Mumbai → Kolkata
+F1175,2026-08-05,Low_Cost,Mumbai,Bengaluru,842,Premium_Economy,7238,-3,5.4,32,35,Mod,8.6,August,Mumbai → Bengaluru
+F1176,2026-08-06,Low_Cost,Delhi,Mumbai,1148,Economy,4449,30,1.3,51,21,Major,3.88,August,Delhi → Mumbai
+F1177,2026-08-07,Full_Service,Delhi,Hyderabad,1253,Economy,6442,10,5.7,15,5,Minor,5.14,August,Delhi → Hyderabad
+F1178,2026-08-08,Full_Service,Hyderabad,Kolkata,1193,Premium_Economy,8047,41,1.0,19,-22,Mod,6.75,August,Hyderabad → Kolkata
+F1179,2026-08-10,Regional,Delhi,Kolkata,1305,Economy,4385,-6,5.4,-14,-8,On Time,3.36,August,Delhi → Kolkata
+F1180,2026-08-11,Full_Service,Delhi,Mumbai,1148,Premium_Economy,8747,11,1.9,-10,-21,On Time,7.62,August,Delhi → Mumbai
+F1181,2026-08-12,Low_Cost,Delhi,Bengaluru,1740,Economy,5228,25,9.4,45,20,Mod,3.0,August,Delhi → Bengaluru
+F1182,2026-08-13,Low_Cost,Bengaluru,Delhi,1740,Economy,5604,16,2.3,10,-6,Minor,3.22,August,Bengaluru → Delhi
+F1183,2026-08-15,Low_Cost,Mumbai,Delhi,1148,Economy,4901,11,5.5,14,3,Minor,4.27,August,Mumbai → Delhi
+F1184,2026-08-16,Regional,Kolkata,Delhi,1305,Economy,4957,12,8.7,10,-2,Minor,3.8,August,Kolkata → Delhi
+F1185,2026-08-17,Low_Cost,Mumbai,Kolkata,1652,Premium_Economy,7521,39,6.4,46,7,Major,4.55,August,Mumbai → Kolkata
+F1186,2026-08-18,Low_Cost,Bengaluru,Mumbai,842,Economy,4425,20,7.0,30,10,Mod,5.26,August,Bengaluru → Mumbai
+F1187,2026-08-19,Low_Cost,Kolkata,Delhi,1305,Economy,5477,36,7.6,38,2,Mod,4.2,August,Kolkata → Delhi
+F1188,2026-08-21,Low_Cost,Kolkata,Bengaluru,1560,Premium_Economy,7976,26,8.8,57,31,Major,5.11,August,Kolkata → Bengaluru
+F1189,2026-08-22,Low_Cost,Kolkata,Delhi,1305,Economy,4696,13,5.5,38,25,Mod,3.6,August,Kolkata → Delhi
+F1190,2026-08-23,Full_Service,Bengaluru,Mumbai,842,Business,14471,3,8.2,10,7,Minor,17.19,August,Bengaluru → Mumbai
+F1191,2026-08-24,Full_Service,Bengaluru,Kolkata,1560,Economy,6181,23,6.9,2,-21,Minor,3.96,August,Bengaluru → Kolkata
+F1192,2026-08-26,Low_Cost,Bengaluru,Delhi,1740,Business,13519,-6,2.8,3,9,Minor,7.77,August,Bengaluru → Delhi
+F1193,2026-08-27,Full_Service,Hyderabad,Delhi,1253,Economy,5978,11,1.9,6,-5,Minor,4.77,August,Hyderabad → Delhi
+F1194,2026-08-28,Low_Cost,Delhi,Bengaluru,1740,Economy,5943,18,9.0,40,22,Mod,3.42,August,Delhi → Bengaluru
+F1195,2026-08-29,Regional,Delhi,Kolkata,1305,Economy,4311,10,9.5,30,20,Mod,3.3,August,Delhi → Kolkata
+F1196,2026-08-31,Low_Cost,Bengaluru,Mumbai,842,Premium_Economy,7354,11,1.0,10,-1,Minor,8.73,August,Bengaluru → Mumbai
+F1197,2026-09-01,Low_Cost,Bengaluru,Kolkata,1560,Economy,5111,22,1.3,39,17,Mod,3.28,September,Bengaluru → Kolkata
+F1198,2026-09-02,Low_Cost,Kolkata,Bengaluru,1560,Economy,5609,6,0.5,1,-5,Minor,3.6,September,Kolkata → Bengaluru
+F1199,2026-09-03,Low_Cost,Hyderabad,Bengaluru,1253,Economy,3863,10,7.1,34,24,Mod,3.08,September,Hyderabad → Bengaluru
+F1200,2026-09-05,Low_Cost,Kolkata,Mumbai,1652,Economy,4840,15,6.1,35,20,Mod,2.93,September,Kolkata → Mumbai
+F1201,2026-09-06,Low_Cost,Bengaluru,Mumbai,842,Economy,4607,36,2.3,32,-4,Mod,5.47,September,Bengaluru → Mumbai
+F1202,2026-09-07,Low_Cost,Delhi,Mumbai,1148,Economy,5210,7,6.7,6,-1,Minor,4.54,September,Delhi → Mumbai
+F1203,2026-09-08,Low_Cost,Bengaluru,Delhi,1740,Economy,6224,30,6.1,30,0,Mod,3.58,September,Bengaluru → Delhi
+F1204,2026-09-10,Low_Cost,Delhi,Kolkata,1305,Economy,4614,42,0.7,53,11,Major,3.54,September,Delhi → Kolkata
+F1205,2026-09-11,Regional,Hyderabad,Delhi,1253,Economy,4697,50,8.7,70,20,Major,3.75,September,Hyderabad → Delhi
+F1206,2026-09-12,Regional,Hyderabad,Kolkata,1193,Premium_Economy,8465,49,6.1,70,21,Major,7.1,September,Hyderabad → Kolkata
+F1207,2026-09-13,Full_Service,Mumbai,Bengaluru,842,Economy,6045,9,4.2,44,35,Mod,7.18,September,Mumbai → Bengaluru
+F1208,2026-09-15,Low_Cost,Mumbai,Delhi,1148,Premium_Economy,7158,24,9.2,52,28,Major,6.24,September,Mumbai → Delhi
+F1209,2026-09-16,Full_Service,Hyderabad,Bengaluru,503,Economy,6032,27,8.6,38,11,Mod,11.99,September,Hyderabad → Bengaluru
+F1210,2026-09-17,Low_Cost,Delhi,Bengaluru,1740,Premium_Economy,7980,5,3.0,23,18,Mod,4.59,September,Delhi → Bengaluru
+F1211,2026-09-18,Regional,Mumbai,Delhi,1148,Business,12677,20,4.2,43,23,Mod,11.04,September,Mumbai → Delhi
+F1212,2026-09-20,Low_Cost,Mumbai,Hyderabad,617,Premium_Economy,7573,11,6.1,14,3,Minor,12.27,September,Mumbai → Hyderabad
+F1213,2026-09-21,Regional,Kolkata,Bengaluru,1560,Economy,5239,25,8.9,37,12,Mod,3.36,September,Kolkata → Bengaluru
+F1214,2026-09-22,Low_Cost,Hyderabad,Mumbai,617,Economy,4279,28,4.1,25,-3,Mod,6.94,September,Hyderabad → Mumbai
+F1215,2026-09-23,Low_Cost,Delhi,Mumbai,1148,Premium_Economy,8092,35,4.0,53,18,Major,7.05,September,Delhi → Mumbai
+F1216,2026-09-24,Low_Cost,Hyderabad,Delhi,1253,Economy,4221,6,2.8,19,13,Mod,3.37,September,Hyderabad → Delhi
+F1217,2026-09-26,Regional,Mumbai,Bengaluru,842,Premium_Economy,7284,13,4.0,29,16,Mod,8.65,September,Mumbai → Bengaluru
+F1218,2026-09-27,Full_Service,Bengaluru,Hyderabad,503,Business,14115,20,2.8,-14,-34,On Time,28.06,September,Bengaluru → Hyderabad
+F1219,2026-09-28,Regional,Bengaluru,Mumbai,842,Economy,5169,32,0.0,16,-16,Mod,6.14,September,Bengaluru → Mumbai
+F1220,2026-09-29,Full_Service,Delhi,Bengaluru,1740,Premium_Economy,9022,17,6.2,51,34,Major,5.19,September,Delhi → Bengaluru
+F1221,2026-10-01,Low_Cost,Hyderabad,Mumbai,617,Economy,4688,27,5.0,16,-11,Mod,7.6,October,Hyderabad → Mumbai
+F1222,2026-10-02,Low_Cost,Delhi,Hyderabad,1253,Economy,5088,-2,4.6,9,11,Minor,4.06,October,Delhi → Hyderabad
+F1223,2026-10-03,Full_Service,Kolkata,Mumbai,1652,Economy,6855,5,5.7,26,21,Mod,4.15,October,Kolkata → Mumbai
+F1224,2026-10-04,Regional,Hyderabad,Delhi,1253,Economy,5073,24,3.6,49,25,Major,4.05,October,Hyderabad → Delhi
+F1225,2026-10-06,Full_Service,Kolkata,Bengaluru,1560,Economy,6645,29,9.7,56,27,Major,4.26,October,Kolkata → Bengaluru
+F1226,2026-10-07,Regional,Mumbai,Kolkata,1652,Economy,4872,23,9.9,29,6,Mod,2.95,October,Mumbai → Kolkata
+F1227,2026-10-08,Full_Service,Delhi,Mumbai,1148,Economy,6468,19,9.8,-5,-24,On Time,5.63,October,Delhi → Mumbai
+F1228,2026-10-09,Low_Cost,Mumbai,Delhi,1148,Premium_Economy,7918,7,4.2,-14,-21,On Time,6.9,October,Mumbai → Delhi
+F1229,2026-10-11,Full_Service,Bengaluru,Mumbai,842,Economy,6559,7,3.9,2,-5,Minor,7.79,October,Bengaluru → Mumbai
+F1230,2026-10-12,Full_Service,Hyderabad,Bengaluru,503,Business,13639,20,3.0,-2,-22,On Time,27.12,October,Hyderabad → Bengaluru
+F1231,2026-10-13,Low_Cost,Kolkata,Mumbai,1652,Economy,4808,35,3.6,49,14,Major,2.91,October,Kolkata → Mumbai
+F1232,2026-10-14,Full_Service,Mumbai,Kolkata,1652,Economy,6609,11,2.8,35,24,Mod,4.0,October,Mumbai → Kolkata
+F1233,2026-10-16,Low_Cost,Bengaluru,Mumbai,842,Premium_Economy,7563,31,6.6,32,1,Mod,8.98,October,Bengaluru → Mumbai
+F1234,2026-10-17,Regional,Bengaluru,Hyderabad,503,Economy,4538,10,7.7,35,25,Mod,9.02,October,Bengaluru → Hyderabad
+F1235,2026-10-18,Regional,Mumbai,Bengaluru,842,Premium_Economy,7001,26,3.8,15,-11,Minor,8.31,October,Mumbai → Bengaluru
+F1236,2026-10-19,Regional,Hyderabad,Delhi,1253,Economy,4442,7,5.7,24,17,Mod,3.55,October,Hyderabad → Delhi
+F1237,2026-10-21,Full_Service,Mumbai,Delhi,1148,Premium_Economy,8972,-3,0.5,11,14,Minor,7.82,October,Mumbai → Delhi
+F1238,2026-10-22,Full_Service,Hyderabad,Mumbai,617,Economy,6657,-6,0.0,-7,-1,On Time,10.79,October,Hyderabad → Mumbai
+F1239,2026-10-23,Regional,Bengaluru,Mumbai,842,Economy,4258,-1,5.0,29,30,Mod,5.06,October,Bengaluru → Mumbai
+F1240,2026-10-24,Full_Service,Hyderabad,Kolkata,1193,Economy,5568,30,1.7,28,-2,Mod,4.67,October,Hyderabad → Kolkata
+F1241,2026-10-26,Low_Cost,Hyderabad,Delhi,1253,Economy,4824,-1,6.1,38,39,Mod,3.85,October,Hyderabad → Delhi
+F1242,2026-10-27,Low_Cost,Hyderabad,Mumbai,617,Business,12822,15,4.3,14,-1,Minor,20.78,October,Hyderabad → Mumbai
+F1243,2026-10-28,Low_Cost,Bengaluru,Mumbai,842,Business,13149,19,5.9,3,-16,Minor,15.62,October,Bengaluru → Mumbai
+F1244,2026-10-29,Low_Cost,Bengaluru,Kolkata,1560,Business,12311,6,2.9,14,8,Minor,7.89,October,Bengaluru → Kolkata
+F1245,2026-10-31,Full_Service,Kolkata,Hyderabad,1193,Economy,5281,13,9.6,41,28,Mod,4.43,October,Kolkata → Hyderabad
